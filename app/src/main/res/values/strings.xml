@@ -1,0 +1,209 @@
+    <resources>
+        <string name="app_name">SubmissionDicodingAndroidPemula</string>
+        <string name="mainTitle">MacaBuku</string>
+        <string name="content_desc_icon">Icon Detail Buku</string>
+
+        <string name="profile_picture">https://avatars.githubusercontent.com/u/71306267?v=4</string>
+        <string name="nama_about">Andree Meilio Caniago</string>
+        <string name="tentanTitle">Tentang Saya</string>
+        <string name="format_label">Format</string>
+        <string name="detailBukuLabel">Detail Buku</string>
+        <string name="published_label">Published</string>
+        <string name="isbn_label">ISBN</string>
+        <string name="asin_label">ASIN</string>
+        <string name="language">Language</string>
+        <string name="description_titile">Description</string>
+        <string name="email_about">aureliusmarcus110@gmail.com</string>
+
+        <string-array name="judul">
+            <item>Dune</item>
+            <item>Ender\' Game</item>
+            <item>The Martian</item>
+            <item>The Hunger Games</item>
+            <item>Red Rising</item>
+            <item>The Three-Body Problem</item>
+            <item>Mockingjay</item>
+            <item>Jurassic Park</item>
+            <item>Dune Messiah</item>
+            <item>Artemis</item>
+        </string-array>
+
+        <string-array name="penulis">
+            <item>Frank Herbert</item>
+            <item>Orson Scott Card</item>
+            <item>Andy Weir</item>
+            <item>Suzanne Collins</item>
+            <item>Pierce Brown</item>
+            <item>Liu Cixin</item>
+            <item>Suzanne Collins</item>
+            <item>Michael Crichton</item>
+            <item>Frank Herbert</item>
+            <item>Andy Weir</item>
+        </string-array>
+
+        <string-array name="sinopsis">
+    <item>Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the \"spice\" melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for...
+
+    When House Atreides is betrayed, the destruction of Paul’s family will set the boy on a journey toward a destiny greater than he could ever have imagined. And as he evolves into the mysterious man known as Muad’Dib, he will bring to fruition humankind’s most ancient and unattainable dream.</item>
+            <item>Andrew \"Ender\" Wiggin thinks he is playing computer simulated war games; he is, in fact, engaged in something far more desperate. The result of genetic experimentation, Ender may be the military genius Earth desperately needs in a war against an alien enemy seeking to destroy all human life. The only way to find out is to throw Ender into ever harsher training, to chip away and find the diamond inside, or destroy him utterly. Ender Wiggin is six years old when it begins. He will grow up fast.
+
+    But Ender is not the only result of the experiment. The war with the Buggers has been raging for a hundred years, and the quest for the perfect general has been underway almost as long. Ender\'s two older siblings, Peter and Valentine, are every bit as unusual as he is, but in very different ways. While Peter was too uncontrollably violent, Valentine very nearly lacks the capability for violence altogether. Neither was found suitable for the military\'s purpose. But they are driven by their jealousy of Ender, and by their inbred drive for power. Peter seeks to control the political process, to become a ruler. Valentine\'s abilities turn more toward the subtle control of the beliefs of commoner and elite alike, through powerfully convincing essays. Hiding their youth and identities behind the anonymity of the computer networks, these two begin working together to shape the destiny of Earth-an Earth that has no future at all if their brother Ender fails.</item>
+            <item>Six days ago, astronaut Mark Watney became one of the first people to walk on Mars.
+
+    Now, he’s sure he’ll be the first person to die there.
+
+    After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive.
+
+    Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old \"human error\" are much more likely to kill him first.
+
+    But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills — and a relentless, dogged refusal to quit — he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?</item>
+            <item>Winning means fame and fortune. Losing means certain death. The Hunger Games have begun. . . .
+
+    In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV.
+
+    Sixteen-year-old Katniss Everdeen regards it as a death sentence when she steps forward to take her sister\'s place in the Games. But Katniss has been close to dead before-and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weigh survival against humanity and life against love.</item>
+            <item>\"I live for the dream that my children will be born free,\" she says. \"That they will be what they like. That they will own the land their father gave them.\"
+
+    \"I live for you,\" I say sadly.
+
+    Eo kisses my cheek. \"Then you must live for more.\"
+
+    Darrow is a Red, a member of the lowest caste in the color-coded society of the future. Like his fellow Reds, he works all day, believing that he and his people are making the surface of Mars livable for future generations.
+
+    Yet he spends his life willingly, knowing that his blood and sweat will one day result in a better world for his children.
+
+    But Darrow and his kind have been betrayed. Soon he discovers that humanity already reached the surface generations ago. Vast cities and sprawling parks spread across the planet. Darrow—and Reds like him—are nothing more than slaves to a decadent ruling class.
+
+    Inspired by a longing for justice, and driven by the memory of lost love, Darrow sacrifices everything to infiltrate the legendary Institute, a proving ground for the dominant Gold caste, where the next generation of humanity\'s overlords struggle for power. He will be forced to compete for his life and the very future of civilization against the best and most brutal of Society\'s ruling class. There, he will stop at nothing to bring down his enemies... even if it means he has to become one of them to do so.</item>
+            <item>Set against the backdrop of China\'s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion.</item>
+            <item>Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss\'s family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.
+
+    It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans—except Katniss.
+
+    The success of the rebellion hinges on Katniss\'s willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels\' Mockingjay—no matter what the personal cost.</item>
+            <item>An astonishing technique for recovering and cloning dinosaur DNA has been discovered. Now humankind’s most thrilling fantasies have come true. Creatures extinct for eons roam Jurassic Park with their awesome presence and profound mystery, and all the world can visit them—for a price.
+
+    Until something goes wrong. . . .
+
+    In Jurassic Park, Michael Crichton taps all his mesmerizing talent and scientific brilliance to create his most electrifying technothriller.</item>
+            <item>Book Two in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time
+
+    Dune Messiah continues the story of Paul Atreides, better known--and feared--as the man christened Muad\'Dib. As Emperor of the Known Universe, he possesses more power than a single man was ever meant to wield. Worshipped as a religious icon by the fanatical Fremens, Paul faces the enmity of the political houses he displaced when he assumed the throne--and a conspiracy conducted within his own sphere of influence.
+
+    And even as House Atreides begins to crumble around him from the machinations of his enemies, the true threat to Paul comes to his lover, Chani, and the unborn heir to his family\'s dynasty...
+
+    Includes an introduction by Brian Herbert</item>
+            <item>Jazz Bashara is a criminal.
+
+    Well, sort of. Life on Artemis, the first and only city on the moon, is tough if you\'re not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you\'ve got debts to pay and your job as a porter barely covers the rent.
+
+    Everything changes when Jazz sees the chance to commit the perfect crime, with a reward too lucrative to turn down. But pulling off the impossible is just the start of her problems, as she learns that she\'s stepped square into a conspiracy for control of Artemis itself—and that now, her only chance at survival lies in a gambit even riskier than the first.</item>
+        </string-array>
+
+
+        <string-array name="cover">
+            <item>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg</item>
+            <item>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408303130i/375802.jpg</item>
+            <item>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413706054i/18007564.jpg</item>
+            <item>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg</item>
+            <item>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1461354651i/15839976.jpg</item>
+            <item>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872.jpg</item>
+            <item>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722918i/7260188.jpg</item>
+            <item>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529604411i/40604658.jpg</item>
+            <item>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577043824i/44492285.jpg</item>
+            <item>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494273579i/34928122.jpg</item>
+        </string-array>
+
+        <integer-array name="rating">
+            <item>4</item>
+            <item>4</item>
+            <item>4</item>
+            <item>4</item>
+            <item>4</item>
+            <item>4</item>
+            <item>4</item>
+            <item>4</item>
+            <item>3</item>
+            <item>3</item>
+        </integer-array>
+
+        <string-array name="genres">
+            <item>Science Fiction,Fiction,Fantasy,Audiobook,Science Fiction Fantasy,Classics,Novels,Adventure,Book Club,Adult</item>
+            <item>Science Fiction,Fiction,Young Adult,Fantasy,Classics,Science Fiction Fantasy,Dystopia,Audiobook,Book Club,War</item>
+            <item>Science Fiction,Fiction,Audiobook,Book Club,Adventure,Space,Adult,Thriller,Science Fiction Fantasy,Humor</item>
+            <item>Young Adult,Dystopia,Fiction,Fantasy,Science Fiction,Romance,AdventureAudiobook,Book Club,Teen</item>
+            <item>Science Fiction,Fantasy,Fiction,Dystopia,Young Adult,Audiobook,Book Club,Science Fiction Fantasy,Adult,Adventure</item>
+            <item>Science Fiction,Fiction,Audiobook,China,Fantasy,Book Club,Science Fiction Fantasy,Aliens,Novels,Adult</item>
+            <item>Young Adult,Dystopia,Fiction,Fantasy,Science Fiction,Romance,Adventure,Audiobook,Teen,Post Apocalyptic</item>
+            <item>Science Fiction,Fiction,Thriller,Horror,Fantasy,Adventure,Classics,Audiobook,Dinosaurs,Science Fiction Fantasy</item>
+            <item>Science Fiction,Fiction,Fantasy,Classics,Audiobook,Science Fiction Fantasy,Space Opera,Novels,Space,Speculative Fiction</item>
+            <item>Science Fiction,Fiction,Audiobook,Space,Fantasy,Book Club,Science Fiction Fantasy,Adult,Thriller,Adventure</item>
+        </string-array>
+
+        <string-array name="format">
+            <item>658 pages, Hardcover</item>
+            <item>324 pages, Mass Market Paperback</item>
+            <item>384 pages, Hardcover</item>
+            <item>374 pages, Hardcover</item>
+            <item>382 pages, Hardcover</item>
+            <item>472 pages, Hardcover</item>
+            <item>390 pages, Hardcover</item>
+            <item>450 pages, Kindle Edition</item>
+            <item>336 pages, Mass Market Paperback</item>
+            <item>305 pages, Hardcover</item>
+        </string-array>
+
+        <string-array name="published">
+            <item>October 1, 2019 by Ace</item>
+            <item>September 30, 2004 by Tor</item>
+            <item>February 11, 2014 by Ballantine Books</item>
+            <item>October 14, 2008 by Scholastic Press</item>
+            <item>January 28, 2014 by Del Rey</item>
+            <item>November 11, 2014 by Tor Books</item>
+            <item>August 24, 2010 by Scholastic Press</item>
+            <item>May 14, 2012 by Ballantine Books</item>
+            <item>June 4, 2019 by Ace</item>
+            <item>November 14, 2017 by Crown</item>
+        </string-array>
+
+        <string-array name="isbn">
+            <item>9780593099322 (ISBN10: 059309932X)</item>
+            <item>9780812550702 (ISBN10: 0812550706)</item>
+            <item>9780804139021 (ISBN10: 0804139024)</item>
+            <item>-</item>
+            <item>9780345539786 (ISBN10: 0345539788)</item>
+            <item>-</item>
+            <item>9780439023511 (ISBN10: 0439023513)</item>
+            <item>9780307763051 (ISBN10: 0307763056)</item>
+            <item>9780593098233 (ISBN10: 0593098234)</item>
+            <item>9780553448122 (ISBN10: 0553448129)</item>
+        </string-array>
+
+        <string-array name="asin">
+            <item>059309932X</item>
+            <item>0812550706</item>
+            <item>0804139024</item>
+            <item>-</item>
+            <item>0345539788</item>
+            <item>-</item>
+            <item>0439023513</item>
+            <item>B007UH4D3G</item>
+            <item>0593098234</item>
+            <item>0553448129</item>
+        </string-array>
+
+        <string-array name="language">
+            <item>English</item>
+            <item>English</item>
+            <item>English</item>
+            <item>English</item>
+            <item>English</item>
+            <item>English</item>
+            <item>English</item>
+            <item>English</item>
+            <item>English</item>
+            <item>English</item>
+        </string-array>
+
+
+    </resources>
